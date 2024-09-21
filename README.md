@@ -16,9 +16,6 @@ Photo-Gram is a dynamic photography application built using React and styled wit
 - **Unsplash API**: To fetch high-quality images.
 - **Firebase**: For user authentication and management.
 
-## Demo
-
-You can view the live version of the application at [your-live-demo-link].
 
 ## Installation
 
